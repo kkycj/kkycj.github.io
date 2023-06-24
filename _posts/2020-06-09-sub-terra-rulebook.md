@@ -1,14 +1,13 @@
 ---
 image: https://cf.geekdo-images.com/imagepagezoom/img/stpT1YAt00Ki4DTm3maVHiiBf4M=/fit-in/1200x900/filters:no_upscale()/pic3277485.png
 layout: post
-title: 桌游探索——Sub Terra地洞惊魂基础包游玩攻略（1）
+title: 桌游探索——Sub Terra 地洞惊魂 基础包 规则说明
 category: Board Game
 tags:
   - 地洞惊魂
   - Sub Terra
-  - 基础包
   - 桌游
-  - 攻略
+  - 规则说明
   - Board Game
 
 ---
